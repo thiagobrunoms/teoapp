@@ -1,0 +1,13 @@
+Android Immersive Mode:
+
+Getting started:
+
+1. Place the "androidimmersivemode.jar" file under "Assets/Plugins/Android/" folder - Here "Assets" Folder is Unity default asset folder.
+2. In your "FIRST" scene drag and drop the "AndroidImmersiveMode" Prefab into the scene.
+3. Thats it! The navigation bar should hide automatically in game.
+
+Version 1.2
+Fixes:
+1. Fixed bug where nav bar was not hiding after softkeyboard was closed
+2. Fixed bug where nav bar was not hiding after coming from "Daydream" mode
+3. Fixed another app crash bug.
